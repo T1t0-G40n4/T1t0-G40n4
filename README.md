@@ -3,7 +3,7 @@
 I'm Tito Gaona
 
 
-🌱 I’m currently learning html, css, python, mainly.
+🌱 I’m currently learning html, css and python mainly.
 
 <!--
 **T1t0-G40n4/T1t0-G40n4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
